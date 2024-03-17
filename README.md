@@ -14,6 +14,7 @@ Task Editing: Empowering users, the app allows seamless task editing. Whether it
 :white_check_mark: Checkbox for Completion: A simple yet powerful feature, users can mark tasks as completed by toggling the checkbox. This boolean expression reflects their intentions and provides a satisfying sense of accomplishment.
 
 
-Live server: https://task-manager-bwku.onrender.com/index.html
+Live server: [https://task-manager-bwku.onrender.com/index.html](https://task-manager-bwku.onrender.com/)
 
-<img width="960" alt="Task-manager" src="https://github.com/Mohaz24/Task-manager/assets/107796482/0ce7d89e-b133-4763-b1eb-d7ccbb64a5e9">
+
+<img width="960" alt="Task-manager" src="https://github.com/Mohaz24/Task-manager/assets/107796482/c656da81-03df-4534-b138-ed9843e07451">
